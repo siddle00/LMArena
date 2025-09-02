@@ -76,7 +76,14 @@ Results (`json`/`jsonl`) are saved in `eval/mtbench_runs/`.
 
 * LoRA adapters for SFT and DPO are hosted separately (see **[WEIGHTS.md](WEIGHTS.md)**).
 * Processed parquet datasets are hosted in Hugging Face Datasets (see **[DATA.md](DATA.md)**).
-
+- 📈 **Training & Evaluation Logs (Weights & Biases)**  
+  - **SFT**
+    - [Arena-55k (Mistral-7B)](https://api.wandb.ai/links/sidarthsrinivasan-ucla/ps585w1s)
+    - [Arena-140k (Mistral-7B)](https://api.wandb.ai/links/sidarthsrinivasan-ucla/ps585w1s)
+  - **DPO**
+    - [Arena-55k (Mistral-7B)](https://api.wandb.ai/links/sidarthsrinivasan-ucla/ps585w1s)
+    - [Arena-140k (Mistral-7B)](https://api.wandb.ai/links/sidarthsrinivasan-ucla/ps585w1s)
+      
 ---
 
 ## Notes
