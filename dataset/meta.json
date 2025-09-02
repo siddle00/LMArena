@@ -1,0 +1,11 @@
+{
+  "language": "en",
+  "n_train": 12000,
+  "n_eval": 512,
+  "seed": 13,
+  "columns_expected": [
+    "prompt",
+    "chosen",
+    "rejected"
+  ]
+}
