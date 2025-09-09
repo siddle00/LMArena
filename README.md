@@ -8,6 +8,16 @@ Includes dataset preparation, exploratory analysis, training scripts, evaluation
 
 ---
 
+## 📑 Detailed Report
+
+A full write-up of the experiments, methodology, results, and findings can be found here:  
+👉 [Detailed Report](DETAILED_REPORT.md)
+
+👉 [Experiment Findings & Analysis (Google Doc)](https://docs.google.com/document/d/1IjerZweqzagm4FoHFrzsNMljirMTfbR4L1vb9okoXtE/edit?usp=sharing)
+
+
+---
+
 ## 📂 Repo Structure
 
 ```text
